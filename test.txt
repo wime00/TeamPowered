@@ -2,4 +2,8 @@
 Nu skriver jag en rad här :)
 Testar..
 Ny rad.
+<<<<<<< HEAD
 
+=======
+Saras nya rad
+>>>>>>> b49e89d2872eb0e24ec18f0866fb69dc5394dc5e
